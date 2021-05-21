@@ -1,0 +1,20 @@
+{
+  "name": "lovechc/hello",
+  "description": "this is a php lib",
+  "require": {
+    "php": "^7.4"
+  },
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Rock",
+      "email": "894387026@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "tools\\": "src/tools"
+    }
+  }
+}
