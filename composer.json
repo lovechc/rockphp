@@ -2,7 +2,8 @@
   "name": "lovechc/rockphp",
   "description": "这是一个php的库工具包，包含项目中常用功能。",
   "require": {
-    "php": "^7.4"
+    "php": "^7.4",
+    "phpoffice/phpspreadsheet": "^1"
   },
   "license": "Apache-2.0",
   "authors": [
